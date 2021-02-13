@@ -1,2 +1,18 @@
-creating sample file in new branch
+GenreId :
+
+Flag : false
+
+#  dates are in GMT
+StartDate : "2020-11-01T01:00:00"
+
+EndDate : "2020-11-30T00:59:00"
+
+#resale
+ShopId : 2782
+
+DownLoadShop : 206038
+
+UploadShopId : 123,345,789,23456,1212
+
+name : nikhil, sai, ...new name
 
